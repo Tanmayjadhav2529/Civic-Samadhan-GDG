@@ -4,7 +4,12 @@ import { Department, User, CivicReport } from "../types";
 
 // Initialize AI with the specific model and tools for Maps Grounding
 // Using the recommended pattern for API key access
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const GEMINI_API_KEY = "PASTE_YOUR_GEMINI_KEY_HERE";
+
+const ai = new GoogleGenAI({
+  apiKey: GEMINI_API_KEY,
+});
+
 
 // Analyze a text report and categorize it
 export const analyzeReport = async (description: string) => {
