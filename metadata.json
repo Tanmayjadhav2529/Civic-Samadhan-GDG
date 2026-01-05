@@ -1,0 +1,9 @@
+{
+  "name": "Civic Samadhan",
+  "description": "A municipal governance platform for transparent citizen reporting, AI-powered issue routing, and automated resolution tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
