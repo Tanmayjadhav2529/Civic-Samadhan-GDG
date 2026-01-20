@@ -1,4 +1,4 @@
-# 🏙️ Civic Samadhan
+ 🏙️ Civic Samadhan
 ### “Shehar Sudhrega, Click Se Badlega!”
 
 Civic Samadhan is a *crowdsourced civic issue reporting and resolution platform* developed for *Smart India Hackathon 2025*.  
